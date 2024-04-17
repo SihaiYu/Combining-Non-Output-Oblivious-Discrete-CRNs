@@ -7,7 +7,7 @@ To begin with, please register or log in to ["StochSS"](https://live.stochss.org
 
 Exploration: Computation for Combining Non-Output-Oblivious Discrete Chemical Reaction Networks (CRNs) with Tolerance for a Small Probability of Error
 ============================================================
-The ["Combining Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/blob/main/Combining%20Non-Output-Oblivious%20Discrete%20CRNs.zip) contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Exploration: Computation for Combining Non-Output-Oblivious Discrete Chemical Reaction Networks with Tolerance for a Small Probability of Error".
+The ["Combining Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/blob/main/Combining%20Non-Output-Oblivious%20Discrete%20CRNs.zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Exploration: Computation for Combining Non-Output-Oblivious Discrete Chemical Reaction Networks with Tolerance for a Small Probability of Error".
 
 Download this zip file and upload it to StochSS for simulation and viewing simulation results.
 
