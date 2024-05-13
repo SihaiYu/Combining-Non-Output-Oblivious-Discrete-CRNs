@@ -4,7 +4,6 @@ To begin with, please register or log in to ["StochSS"](https://live.stochss.org
 <p align="center">
   <img src="https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/e2810009-d190-40b4-b59e-3694496f9a37">
 </p>
-![image](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/e2810009-d190-40b4-b59e-3694496f9a37)
 
 
 Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks
@@ -14,8 +13,9 @@ The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/
 Download this zip file and upload it to StochSS for simulation and viewing simulation results.
 
 First, log in to StochSS, then click on "Browse your projects".
-
-![image](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/c4f5498b-a2f9-484e-8f72-160ff7c28251)
+<p align="center">
+  <img src="https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/c4f5498b-a2f9-484e-8f72-160ff7c28251">
+</p>
 
 Afterward, locate the "File Browser" at the bottom of the page and click on the "+" button.
 
