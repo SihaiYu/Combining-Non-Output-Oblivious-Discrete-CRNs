@@ -57,7 +57,7 @@ Since StochSS does not provide specific functionality for calculating the accura
 </p>
 
 <p align="center">
-  <img src="https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/2f856b14-c585-42c6-977a-7b45f0f30fe">
+  <img src="https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/710d7bc1-e995-46e0-8704-cf200a0b7b65">
 </p>
 
 4. Run ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py).
