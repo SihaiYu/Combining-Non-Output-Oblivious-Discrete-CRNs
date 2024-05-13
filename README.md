@@ -25,9 +25,10 @@ Upload the zip file.
 
 Finally, view the simulation results in the "Project Browser".
 
-![image](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/a7cfddf1-040f-4f67-9543-d159b3aa1c76)
+![image](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/381d0ff8-9638-4f3a-ba7b-899879da2b76)
 
-![image](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/c262e78f-28b2-4a6d-852f-904e35d88a44)
+
+
 
 
 
