@@ -9,7 +9,7 @@ To begin with, please register or log in to ["StochSS"](https://live.stochss.org
 Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks
 ============================================================
 
-## Download this zip file and upload it to StochSS for simulation and viewing simulation results.
+## Download this zip file and upload it to StochSS for simulation and viewing simulation results
 
 The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Composing%20Non-Output-Oblivious%20Discrete%20CRNs.zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks".
 
@@ -37,7 +37,9 @@ The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/
   <img src="https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/3a21960e-51fa-40e8-9700-25e47f2ce010">
 </p>
 
+## Calculate the accuracy of simulation experiment results
 
+Due to the lack of built-in functionality in StochSS for calculating the accuracy of multiple experiments within the workflow, we developed a Python program to parse the JSON files corresponding to the experimental results and further calculate the accuracy.
 
 
 
