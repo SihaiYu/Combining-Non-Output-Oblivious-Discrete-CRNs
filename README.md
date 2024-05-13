@@ -38,7 +38,7 @@ The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/
 </p>
 
 5. Supplement
-   It should be noted that StochSS does not directly support the simulation of molecular reactions in discrete states involving three or more reactants (e.g., A + B + C ——> D + E). However, similar reactions can be transformed into multiple equivalent reactions with only two reactants each. Therefore, equivalent treatments were applied to the corresponding reactions in this simulation experiment.
+   It should be noted that StochSS does not directly support the simulation of molecular reactions in discrete states involving three or more reactants (e.g., A + B + C --> D + E). However, similar reactions can be transformed into multiple equivalent reactions with only two reactants each. Therefore, equivalent treatments were applied to the corresponding reactions in this simulation experiment.
    
 ## Calculate the accuracy of simulation experiment results
 
