@@ -38,6 +38,7 @@ The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/
 </p>
 
 5. Supplement
+   
    It should be noted that StochSS does not directly support the simulation of molecular reactions in discrete states involving three or more reactants (e.g., A + B + C --> D + E). However, similar reactions can be transformed into multiple equivalent reactions with only two reactants each. Therefore, equivalent treatments were applied to the corresponding reactions in this simulation experiment.
    
 ## Calculate the accuracy of simulation experiment results
@@ -66,6 +67,7 @@ Since StochSS does not provide specific functionality for calculating the accura
 4. Run ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py).
 
 5. Supplement
+   
    We have already processed all JSON files in ["JSON.zip"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/JSON.zip) by removing the certain content at the beginning and end. Simply unzip these JSON files to the same folder as the ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py) file, and then run ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py).
 
 
