@@ -34,8 +34,9 @@ The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/
 </p>
 
 <p align="center">
-  <img src="https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/4b75e183-22a8-4d8e-a00b-ce5e7c649bf9">
+  <img src="https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/assets/100762924/3a21960e-51fa-40e8-9700-25e47f2ce010">
 </p>
+
 
 
 
