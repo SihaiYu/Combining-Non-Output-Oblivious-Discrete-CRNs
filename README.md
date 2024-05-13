@@ -7,7 +7,7 @@ To begin with, please register or log in to ["StochSS"](https://live.stochss.org
 
 Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks
 ============================================================
-The ["Combining Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Combining-Non-Output-Oblivious-Discrete-CRNs/blob/main/Combining%20Non-Output-Oblivious%20Discrete%20CRNs.zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Exploration: Computation for Combining Non-Output-Oblivious Discrete Chemical Reaction Networks with a Small Probability of Error".
+The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Composing%20Non-Output-Oblivious%20Discrete%20CRNs.zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Exploration: Computation for Combining Non-Output-Oblivious Discrete Chemical Reaction Networks with a Small Probability of Error".
 
 Download this zip file and upload it to StochSS for simulation and viewing simulation results.
 
