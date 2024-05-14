@@ -68,7 +68,7 @@ Since StochSS does not provide specific functionality for calculating the accura
 
 5. Supplement
    
-   We have already processed all JSON files in ["JSON.zip"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/JSON.zip) by removing the certain content at the beginning and end. Simply unzip these JSON files to the same folder as the ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py) file, and then run ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py).
+   We have already processed all JSON files in ["JSON.zip"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/JSON.zip) by removing the certain content at the beginning and end. Just unzip these JSON files to the same folder as the ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py) file, and then run ["run_this.py"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Accuracy%20Statistics/run_this.py).
 
 
 
