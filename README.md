@@ -11,7 +11,7 @@ Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Network
 
 ## Download this zip file and upload it to StochSS for simulation and viewing simulation results
 
-The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Composing%20Non-Output-Oblivious%20Discrete%20CRNs.zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks".
+The ["Composing Non-Output-Oblivious Discrete CRNs"](https://github.com/SihaiYu/Composing-Non-Output-Oblivious-Discrete-CRNs/blob/main/Composing%20Non-Output-Oblivious%20Discrete%20CRNs(5).zip) file contains the configuration files related to the exploration conducted by Sihai Yu et al. in "Enhancing Reliability of Composed Non-Output-Oblivious Chemical Reaction Networks".
 
 1. Log in to StochSS, then click on "Browse your projects".
 <p align="center">
